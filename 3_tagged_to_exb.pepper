@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pepper-job id="k9omv3og" version="1.0">
+  <importer name="EXMARaLDAImporter" path="./2_tokenized/exb/Zoomkorpus/">
+  </importer>
+  <importer name="TreetaggerImporter" path="./3_tagged/tt/Zoomkorpus/">
+    <!-- Don't map the attributes of the root tag as meta-annotations -->
+     <property key="treetagger.input.metaTag">non-existant</property>
+     <!-- Remove doubled (properly former meta-) annotation -->
+    <property key="pepper.after.removeAnnos">utterance;abbreviation;age;img;l1;languages-used;rec;sex;transcriptionName;vis</property>
+  </importer>
+  <manipulator name="Merger">
+    <property key="firstAsBase">true</property>
+    <property key="escapeMapping">"(":"[",")":"]"," ":""</property>
+  </manipulator>
+  <exporter name="EXMARaLDAExporter" path="./3_tagged/exb/">
+   </exporter>
+</pepper-job>

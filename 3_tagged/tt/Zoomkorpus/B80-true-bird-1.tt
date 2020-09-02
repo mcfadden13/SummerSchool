@@ -1,0 +1,113 @@
+<meta vis="true" img="bird" sex="m" age="age" rec="1" languages-used="deu" transcriptionName="B80-true-bird-1" abbreviation="B80">
+So. 	NE	<unknown>
+ähm 	VVFIN	<unknown>
+<sSpan2 utterance="Im Bild ">
+Im	APPRART	in+die
+Bild	NN	Bild
+</sSpan2>
+äh 	VVFIN	<unknown>
+<sSpan11 utterance="seh ich einen Vogel, einen weißen Vogel. ">
+seh	NE	seh
+ich	PPER	ich
+einen	ART	eine
+Vogel	NN	Vogel
+,	$,	,
+einen	ART	eine
+weißen	ADJA	weiß
+Vogel	NN	Vogel
+.	$.	.
+</sSpan11>
+<sSpan7 utterance="Dis is irgendson Wasservogel. ">
+Dis	NN	Dis
+is	NE	is
+irgendson	NE	<unknown>
+Wasservogel	NN	Wasservogel
+.	$.	.
+</sSpan7>
+<sSpan1 utterance="Scheint vielleicht n Kranich oder so was. ">
+Scheint	VVFIN	scheinen
+vielleicht	ADV	vielleicht
+n	ADJA	<unknown>
+Kranich	NN	Kranich
+oder	KON	oder
+so	ADV	so
+was	PWS	was
+.	$.	.
+</sSpan1>
+ähm 	VVIMP	<unknown>
+<sSpan4 utterance="Der steht auf einem grünen Zaun. ">
+Der	PDS	die
+steht	VVFIN	stehen
+auf	APPR	auf
+einem	ART	eine
+grünen	ADJA	grün
+Zaun	NN	Zaun
+.	$.	.
+</sSpan4>
+ähm 	ADJA	<unknown>
+<sSpan9 utterance="Ich würde tippen dis isn Zoo oder so was. ">
+Ich	NN	Ich
+würde	VAFIN	werden
+tippen	VVINF	tippen
+dis	VVFIN	<unknown>
+isn	NE	<unknown>
+Zoo	NN	Zoo
+oder	KON	oder
+so	ADV	so
+was	PWS	was
+.	$.	.
+</sSpan9>
+<sSpan6 utterance="Im Hintergrund ">
+Im	APPRART	in+die
+Hintergrund	NN	Hintergrund
+</sSpan6>
+äh 	ADJA	<unknown>
+sind 	ADJA	<unknown>
+äh 	ADJA	<unknown>
+<sSpan8 utterance="Bäume und ">
+Bäume	NN	Baum
+und	KON	und
+</sSpan8>
+äh 	ADJA	<unknown>
+<sSpan5 utterance="Gras und n paar Blumen ">
+Gras	NN	Gras
+und	KON	und
+n	VVFIN	<unknown>
+paar	PIAT	paar
+Blumen	NN	Blume
+</sSpan5>
+äh 	VVFIN	<unknown>
+<sSpan3 utterance="Und im Vordergrund ist so um den Zaun herum ist so einfach ja das ist vielleicht son Wanderweg oder so was ja. ">
+Und	KON	und
+im	APPRART	in+die
+Vordergrund	NN	Vordergrund
+ist	VAFIN	sein
+so	ADV	so
+um	APPR	um
+den	ART	die
+Zaun	NN	Zaun
+herum	APZR	herum
+ist	VAFIN	sein
+so	ADV	so
+einfach	ADJD	einfach
+ja	ADV	ja
+das	PDS	die
+ist	VAFIN	sein
+vielleicht	ADV	vielleicht
+son	FM	son
+Wanderweg	NN	Wanderweg
+oder	KON	oder
+so	ADV	so
+was	PWS	was
+ja	PTKANT	ja
+.	$.	.
+</sSpan3>
+ahm 	ADJA	<unknown>
+<sSpan10 utterance="Ja, dis wars. ">
+Ja	NN	Ja
+,	$,	,
+dis	VVFIN	<unknown>
+wars	NE	<unknown>
+.	$.	.
+</sSpan10>
+</meta>

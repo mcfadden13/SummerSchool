@@ -6,8 +6,8 @@
         <property key="tokenizer.addTextToSpan">true</property>
         <property key="pepper.after.renameAnnos">v::v:=utterance</property>
 	</manipulator>
-	<exporter name="EXMARaLDAExporter" path="./2_tokenized/exb/Zoomkorpus/">
+	<exporter name="EXMARaLDAExporter" path="./2_tokenized/exb/">
 	</exporter>
-	<exporter name="TreetaggerExporter" path="./2_tokenized/tt/Zoomkorpus/">
+	<exporter name="TreetaggerExporter" path="./2_tokenized/tt/">
 	</exporter>
 </pepper-job>

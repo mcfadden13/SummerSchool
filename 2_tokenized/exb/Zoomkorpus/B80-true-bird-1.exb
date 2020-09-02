@@ -2,7 +2,11 @@
 <basic-transcription>
 <head>
 <meta-information>
+<<<<<<< HEAD
 <project-name></project-name><transcription-name>B80-true-bird-1</transcription-name><referenced-file url="../../../../0_audio/wav/Zoomkorpus/B80-true-bird-1.wav"></referenced-file><ud-meta-information><ud-information attribute-name="vis">true</ud-information><ud-information attribute-name="img">bird</ud-information><ud-information attribute-name="rec">1</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information>
+=======
+<project-name></project-name><transcription-name>B80-true-bird-1</transcription-name><referenced-file url="../../../0_audio/wav/Zoomkorpus/B80-true-bird-1.wav"></referenced-file><ud-meta-information><ud-information attribute-name="img">bird</ud-information><ud-information attribute-name="vis">true</ud-information><ud-information attribute-name="rec">1</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information>
+>>>>>>> 2ndday
 <speakertable>
 <speaker id="B80">
 <abbreviation>B80</abbreviation>
@@ -201,6 +205,7 @@
 <event start="T88" end="T89">.</event>
 </tier>
 <tier id="TIE1" speaker="B80" category="utterance" type="a" display-name="B80 [utterance]">
+<<<<<<< HEAD
 <event start="T19" end="T27">Scheint vielleicht n Kranich oder so was. </event>
 <event start="T2" end="T4">Im Bild </event>
 <event start="T60" end="T83">Und im Vordergrund ist so um den Zaun herum ist so einfach ja das ist vielleicht son Wanderweg oder so was ja. </event>
@@ -212,6 +217,19 @@
 <event start="T36" end="T46">Ich w&#252;rde tippen dis isn Zoo oder so was. </event>
 <event start="T84" end="T89">Ja, dis wars. </event>
 <event start="T5" end="T14">seh ich einen Vogel, einen wei&#223;en Vogel. </event>
+=======
+<event start="T46" end="T48">Im Hintergrund </event>
+<event start="T28" end="T35">Der steht auf einem gr&#252;nen Zaun. </event>
+<event start="T14" end="T19">Dis is irgendson Wasservogel. </event>
+<event start="T2" end="T4">Im Bild </event>
+<event start="T36" end="T46">Ich w&#252;rde tippen dis isn Zoo oder so was. </event>
+<event start="T51" end="T53">B&#228;ume und </event>
+<event start="T5" end="T14">seh ich einen Vogel, einen wei&#223;en Vogel. </event>
+<event start="T54" end="T59">Gras und n paar Blumen </event>
+<event start="T84" end="T89">Ja, dis wars. </event>
+<event start="T19" end="T27">Scheint vielleicht n Kranich oder so was. </event>
+<event start="T60" end="T83">Und im Vordergrund ist so um den Zaun herum ist so einfach ja das ist vielleicht son Wanderweg oder so was ja. </event>
+>>>>>>> 2ndday
 </tier>
 </basic-body>
 </basic-transcription>

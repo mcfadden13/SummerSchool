@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <meta vis="true" img="bird" sex="m" age="age" rec="1" languages-used="deu" transcriptionName="B80-true-bird-1" abbreviation="B80">
 So. 	NE	<unknown>
 ähm 	VVFIN	<unknown>
@@ -7,6 +8,17 @@ Bild	NN	Bild
 </sSpan2>
 äh 	VVFIN	<unknown>
 <sSpan11 utterance="seh ich einen Vogel, einen weißen Vogel. ">
+=======
+<meta transcriptionName="B80-true-bird-1" abbreviation="B80" languages-used="deu" age="age" img="bird" sex="m" vis="true" rec="1">
+So. 	NE	<unknown>
+ähm 	VVFIN	<unknown>
+<sSpan4 utterance="Im Bild ">
+Im	APPRART	in+die
+Bild	NN	Bild
+</sSpan4>
+äh 	VVFIN	<unknown>
+<sSpan7 utterance="seh ich einen Vogel, einen weißen Vogel. ">
+>>>>>>> 2ndday
 seh	NE	seh
 ich	PPER	ich
 einen	ART	eine
@@ -16,15 +28,25 @@ einen	ART	eine
 weißen	ADJA	weiß
 Vogel	NN	Vogel
 .	$.	.
+<<<<<<< HEAD
 </sSpan11>
 <sSpan7 utterance="Dis is irgendson Wasservogel. ">
+=======
+</sSpan7>
+<sSpan3 utterance="Dis is irgendson Wasservogel. ">
+>>>>>>> 2ndday
 Dis	NN	Dis
 is	NE	is
 irgendson	NE	<unknown>
 Wasservogel	NN	Wasservogel
 .	$.	.
+<<<<<<< HEAD
 </sSpan7>
 <sSpan1 utterance="Scheint vielleicht n Kranich oder so was. ">
+=======
+</sSpan3>
+<sSpan10 utterance="Scheint vielleicht n Kranich oder so was. ">
+>>>>>>> 2ndday
 Scheint	VVFIN	scheinen
 vielleicht	ADV	vielleicht
 n	ADJA	<unknown>
@@ -33,9 +55,15 @@ oder	KON	oder
 so	ADV	so
 was	PWS	was
 .	$.	.
+<<<<<<< HEAD
 </sSpan1>
 ähm 	VVIMP	<unknown>
 <sSpan4 utterance="Der steht auf einem grünen Zaun. ">
+=======
+</sSpan10>
+ähm 	VVIMP	<unknown>
+<sSpan2 utterance="Der steht auf einem grünen Zaun. ">
+>>>>>>> 2ndday
 Der	PDS	die
 steht	VVFIN	stehen
 auf	APPR	auf
@@ -43,9 +71,15 @@ einem	ART	eine
 grünen	ADJA	grün
 Zaun	NN	Zaun
 .	$.	.
+<<<<<<< HEAD
 </sSpan4>
 ähm 	ADJA	<unknown>
 <sSpan9 utterance="Ich würde tippen dis isn Zoo oder so was. ">
+=======
+</sSpan2>
+ähm 	ADJA	<unknown>
+<sSpan5 utterance="Ich würde tippen dis isn Zoo oder so was. ">
+>>>>>>> 2ndday
 Ich	NN	Ich
 würde	VAFIN	werden
 tippen	VVINF	tippen
@@ -56,6 +90,7 @@ oder	KON	oder
 so	ADV	so
 was	PWS	was
 .	$.	.
+<<<<<<< HEAD
 </sSpan9>
 <sSpan6 utterance="Im Hintergrund ">
 Im	APPRART	in+die
@@ -70,14 +105,36 @@ und	KON	und
 </sSpan8>
 äh 	ADJA	<unknown>
 <sSpan5 utterance="Gras und n paar Blumen ">
+=======
+</sSpan5>
+<sSpan1 utterance="Im Hintergrund ">
+Im	APPRART	in+die
+Hintergrund	NN	Hintergrund
+</sSpan1>
+äh 	ADJA	<unknown>
+sind 	ADJA	<unknown>
+äh 	ADJA	<unknown>
+<sSpan6 utterance="Bäume und ">
+Bäume	NN	Baum
+und	KON	und
+</sSpan6>
+äh 	ADJA	<unknown>
+<sSpan8 utterance="Gras und n paar Blumen ">
+>>>>>>> 2ndday
 Gras	NN	Gras
 und	KON	und
 n	VVFIN	<unknown>
 paar	PIAT	paar
 Blumen	NN	Blume
+<<<<<<< HEAD
 </sSpan5>
 äh 	VVFIN	<unknown>
 <sSpan3 utterance="Und im Vordergrund ist so um den Zaun herum ist so einfach ja das ist vielleicht son Wanderweg oder so was ja. ">
+=======
+</sSpan8>
+äh 	VVFIN	<unknown>
+<sSpan11 utterance="Und im Vordergrund ist so um den Zaun herum ist so einfach ja das ist vielleicht son Wanderweg oder so was ja. ">
+>>>>>>> 2ndday
 Und	KON	und
 im	APPRART	in+die
 Vordergrund	NN	Vordergrund
@@ -101,13 +158,23 @@ so	ADV	so
 was	PWS	was
 ja	PTKANT	ja
 .	$.	.
+<<<<<<< HEAD
 </sSpan3>
 ahm 	ADJA	<unknown>
 <sSpan10 utterance="Ja, dis wars. ">
+=======
+</sSpan11>
+ahm 	ADJA	<unknown>
+<sSpan9 utterance="Ja, dis wars. ">
+>>>>>>> 2ndday
 Ja	NN	Ja
 ,	$,	,
 dis	VVFIN	<unknown>
 wars	NE	<unknown>
 .	$.	.
+<<<<<<< HEAD
 </sSpan10>
+=======
+</sSpan9>
+>>>>>>> 2ndday
 </meta>

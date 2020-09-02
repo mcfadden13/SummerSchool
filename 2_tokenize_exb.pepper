@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<<<<<<< HEAD
 <pepper-job id="e8mj71s5" version="1.0">
 	<importer name="EXMARaLDAImporter" path="./1_transcription/exb/Zoomkorpus/">
 	</importer>
@@ -9,5 +10,17 @@
 	<exporter name="EXMARaLDAExporter" path="./2_tokenized/exb/Zoomkorpus/">
 	</exporter>
 	<exporter name="TreetaggerExporter" path="./2_tokenized/tt/Zoomkorpus/">
+=======
+<pepper-job id="m86mhl3o" version="1.0">
+	<importer name="EXMARaLDAImporter" path="./1_transcription/exb/Zoomkorpus/">
+	</importer>
+	<manipulator name="Tokenizer">
+        <property key="tokenizer.addTextToSpan">true</property>
+        <property key="pepper.after.renameAnnos">v::v:=utterance</property>
+	</manipulator>
+	<exporter name="EXMARaLDAExporter" path="./2_tokenized/exb/">
+	</exporter>
+	<exporter name="TreetaggerExporter" path="./2_tokenized/tt/">
+>>>>>>> 2ndday
 	</exporter>
 </pepper-job>

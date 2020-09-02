@@ -2,7 +2,11 @@
 <basic-transcription>
 <head>
 <meta-information>
+<<<<<<< HEAD
 <project-name></project-name><transcription-name></transcription-name><referenced-file url=""></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
+=======
+<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../0_audio/wav/Zoomkorpus/WTL-false-block-2.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
+>>>>>>> 2ndday
 <speakertable>
 <speaker id="WTL">
 <abbreviation>WTL</abbreviation>
@@ -17,6 +21,7 @@
 </head>
 <basic-body>
 <common-timeline>
+<<<<<<< HEAD
 <tli id="T0" time="0"/>
 <tli id="T1" time="1"/>
 <tli id="T2" time="2"/>
@@ -25,6 +30,15 @@
 <tli id="T5" time="5"/>
 <tli id="T6" time="6"/>
 <tli id="T7" time="7"/>
+=======
+<tli id="T0" time="4.112686073957514"/>
+<tli id="T1" time="4.32971858379229"/>
+<tli id="T2" time="4.655267348544453"/>
+<tli id="T3" time="5.197848623131392"/>
+<tli id="T4" time="5.523397387883556"/>
+<tli id="T5" time="5.848946152635719"/>
+<tli id="T6" time="6.825592446892212"/>
+>>>>>>> 2ndday
 </common-timeline>
 <tier id="TIE0" speaker="WTL" category="v" type="t" display-name="WTL [v]">
 <event start="T0" end="T1">in</event>

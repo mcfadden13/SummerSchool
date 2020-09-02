@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pepper-job id="k9omv3og" version="1.0">
+<importer name="EXMARaLDAImporter" path="./4_annotated/exb/Zoomkorpus/">  
+</importer> 
+<exporter name="ANNISExporter" path="./5_annis/">    
+</exporter></pepper-job>
